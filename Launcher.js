@@ -7,8 +7,8 @@ class Launcher{
 
             bodyA : bodyA,
             pointB : pointB,
-            stiffness : 0.03,
-            length : 10
+            stiffness : 0.003,
+            length : 1
 
         }
         this.pointB = pointB;
